@@ -28,12 +28,13 @@ ex2a();
 
 // Ex2b
 // This exercise takes in an argument
-// which then returns the value of the parameter
+// which then returns any value given to that argument
+// using the return command
 const ex2b = (arg1) => {
     return arg1;
 }
 // This is how to call the function and
-// give the parameter a string value
+// give the argument a string value
 console.log(ex2b("Data Representation & Querying"));
 
 // Ex2c - Take two numbers as arguments and returns the sum 
