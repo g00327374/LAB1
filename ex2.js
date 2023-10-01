@@ -7,7 +7,7 @@ const hello = () => {
 
 // Call the function hello() and will
 // execute this command to give back
-// the results
+// the results 
 hello();
 
 // Example 2
